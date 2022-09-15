@@ -1,0 +1,6 @@
+Exercício 1: 
+  Criar uma struc funcionario: nome, cargo e salario(ponteiro).
+  Cuidado: salario é ponteiro.
+  Popular o vetor de struct com 3 funcionarios, utilizando ponteiro.
+  Dica: para armazenar os salários dos funcionários precisa utilizar vetor.
+  Exiba os funcionários na tela, utilizando ponteiro.

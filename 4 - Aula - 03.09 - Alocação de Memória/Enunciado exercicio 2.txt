@@ -1,0 +1,8 @@
+Exercício 2:
+Elabore um programa que crie um novo tipo chamado pessoa, 
+com os campos nome, sexo e ponteiro para idade. 
+Leia do usuário o tamanho de um vetor de pessoas e faça esse tamanho 
+ser para todos os vetores. 
+Em seguida, faça a alocação dinâmica desse vetor de struct, usando malloc, 
+calloc e realloc, mas com ponteiros diferentes, ou seja, serão criados 3 vetores. 
+Em seguida preencha cada campo de cada vetor de pessoa e exiba os dados na tela.
